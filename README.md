@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oluwasemiloga.
+- 👋 Hi, I’m @olusoga.
 - 👀 I’m interested in transitioning into a tech career.
 - 🌱 I’m currently learning Linux, Cloud & DevOps.
 - 💞️ I’m looking to collaborate on hands-on projects that help me develop real-world skills.
